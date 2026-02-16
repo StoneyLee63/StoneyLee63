@@ -1,16 +1,35 @@
-## Hi there 👋
+# Lee Mitchell
 
-<!--
-**StoneyLee63/StoneyLee63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Linux and security practitioner focused on hands-on system work, Bash automation,
+and blue-team fundamentals.
 
-Here are some ideas to get you started:
+I learn by building: scripts, labs, and documented experiments inside real Linux environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- Linux system administration and troubleshooting (RHCSA track)
+- Bash scripting for monitoring, auditing, and automation
+- Blue-team fundamentals: logs, auth, network activity, and process visibility
+
+## Projects
+
+- **Bash_Tools**  
+  Bash toolkit for Linux host monitoring, session tracking, and lightweight network reconnaissance.
+
+- **Red_Blue_Labs** *(private)*  
+  Personal offensive and defensive lab environment for structured security practice.
+
+- **Linux_Labs**  
+  Daily Linux practice covering filesystem, permissions, processes, networking, and services.
+
+## Tools & Skills
+
+- **Languages**: Bash, Python (learning)
+- **Platforms**: Linux (Ubuntu, WSL, lab VMs)
+- **Security**: Log analysis, auth monitoring, basic network recon
+- **Practices**: Documentation, repeatable workflows, lab-driven learning
+
+## Learning Philosophy
+
+I prioritize fundamentals, clarity, and repetition.
+My goal is to become calm and capable inside systems — not just familiar with commands.
