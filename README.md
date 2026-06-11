@@ -1,4 +1,4 @@
-# Lee Mitchell
+# Ronnie Mitchell
 
 Linux and security practitioner focused on hands-on system work, Bash automation,
 and blue-team fundamentals.
