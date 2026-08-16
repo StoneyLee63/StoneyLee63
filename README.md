@@ -13,8 +13,6 @@ I learn by building: scripts, labs, and documented experiments inside real Linux
 
 ## Projects
 
-## Projects
-
 - [**Bash_Tools**](https://github.com/StoneyLee63/Bash_Tools)  
   Bash toolkit for Linux host monitoring, session tracking, and network visibility.
 
