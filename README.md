@@ -13,20 +13,22 @@ I learn by building: scripts, labs, and documented experiments inside real Linux
 
 ## Projects
 
-- **Bash_Tools**  
-  Bash toolkit for Linux host monitoring, session tracking, and lightweight network reconnaissance.
+## Projects
 
-- **Red_Blue_Labs** *(private)*  
+- [**Bash_Tools**](https://github.com/StoneyLee63/Bash_Tools)  
+  Bash toolkit for Linux host monitoring, session tracking, and network visibility.
+
+- [**Red_Blue_Labs**](https://github.com/StoneyLee63/Red_Blue_Labs) *(private)*  
   Personal offensive and defensive lab environment for structured security practice.
 
-- **Linux_Labs**  
+- [**Linux-Labs**](https://github.com/StoneyLee63/linux-labs)  
   Daily Linux practice covering filesystem, permissions, processes, networking, and services.
 
 ## Tools & Skills
 
 - **Languages**: Bash, Python (learning)
 - **Platforms**: Linux (Ubuntu, WSL, lab VMs)
-- **Security**: Log analysis, auth monitoring, basic network recon
+- **Security**: Log analysis, auth monitoring, network visibility
 - **Practices**: Documentation, repeatable workflows, lab-driven learning
 
 ## Learning Philosophy
