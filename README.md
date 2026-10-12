@@ -1,35 +1,39 @@
 # Ronnie Mitchell
 
-Linux and security practitioner focused on hands-on system work, Bash automation,
-and blue-team fundamentals.
+I build hands-on technical learning environments and practical systems that teach as they work, from Linux Labs to the tools businesses actually run on.
 
-I learn by building: scripts, labs, and documented experiments inside real Linux environments.
+## Education Studio
+Hands on Linux Labs, systems thinking and cybersecurity labs for learners from beginner to advanced.
+- **linux-labs** Real world technical training labs for Linux terminal skill building
 
-## Current Focus
+## Systems & Infrastructure Studio
+Reusable tools I built to build with, Docker sandboxes, script scaffolding, testing and Bash automation tools.
+- **SandboxForge** Disposable Docker sandboxs for building, testing and fixing
+- **Bash_Tools** Host monitoring, session tracking, network visibility tools for everyday workflows
+- **stormforge** tool template generator
 
-- Linux system administration and troubleshooting (RHCSA track)
-- Bash scripting for monitoring, auditing, and automation
-- Blue-team fundamentals: logs, auth, network activity, and process visibility
+## Solutions Studio
+Pipelines, and tools built for real businesses, nonprofits, and workflows in the real world. Solving one problem at a time.
+- **OrchestrationTools** Agentic pipelines and workflows for SMBs
+- **Charlees-Budget** Budget app with a Kawaii Dark Pop design, savings pools and life goals
 
-## Projects
+## Postmortem Proof
+A running record of real bugs, what broke, why, and what it took to fix across everything I build.
+- **Postmortem-Proof** Errors, bugs and mistakes caught and explained
 
-- [**Bash_Tools**](https://github.com/StoneyLee63/Bash_Tools)  
-  Bash toolkit for Linux host monitoring, session tracking, and network visibility.
+## Currently building
+- **AI agent** Daily AI agent micro-builds, one pattern at a time
+- **Security ops pipeline** Final stage of OHE in OrchestrationTools
+- **Homelab** Rocky Linux VMs for practice, self-hosted tools, and client test environments
 
-- [**Red_Blue_Labs**](https://github.com/StoneyLee63/Red_Blue_Labs) *(private)*  
-  Personal offensive and defensive lab environment for structured security practice.
+## Technical focus
+- **Linux** Rocky, Ubuntu, WSL, system administration and troubleshooting
+- **Scripting** Bash, Python (learning)
+- **Container** Docker
+- **AI agent** Claude API, agent loops, multi-stage pipelines
+- **Security** Log analysis, host monitoring, hardening
 
-- [**Linux-Labs**](https://github.com/StoneyLee63/linux-labs)  
-  Daily Linux practice covering filesystem, permissions, processes, networking, and services.
+## Currently looking for
+Open to SOC Tier 1, NOC, or Linux SysAdmin, remote or onsite.
+Also taking on tool builds for SMBs and nonprofits. Reach me on LinkedIn and Substack.
 
-## Tools & Skills
-
-- **Languages**: Bash, Python (learning)
-- **Platforms**: Linux (Ubuntu, WSL, lab VMs)
-- **Security**: Log analysis, auth monitoring, network visibility
-- **Practices**: Documentation, repeatable workflows, lab-driven learning
-
-## Learning Philosophy
-
-I prioritize fundamentals, clarity, and repetition.
-My goal is to become calm and capable inside systems — not just familiar with commands.
