@@ -3,12 +3,13 @@
 I build hands-on technical learning environments and practical systems that teach as they work, from Linux Labs to the tools businesses actually run on.
 
 ## Education Studio
-Hands on Linux Labs, systems thinking and cybersecurity labs for learners from beginner to advanced.
+Hands on Linux Labs, systems thinking, AI builds and cybersecurity labs for learners from beginner to advanced.
 - **linux-labs** Real world technical training labs for Linux terminal skill building
+- **agent-craft** AI micro-builds that train and teach core agent concepts
 
 ## Systems & Infrastructure Studio
 Reusable tools I built to build with, Docker sandboxes, script scaffolding, testing and Bash automation tools.
-- **SandboxForge** Disposable Docker sandboxs for building, testing and fixing
+- **SandboxForge** Disposable Docker sandboxes for building, testing and fixing
 - **Bash_Tools** Host monitoring, session tracking, network visibility tools for everyday workflows
 - **stormforge** tool template generator
 
