@@ -5,7 +5,7 @@ I build hands-on technical learning environments and practical systems that teac
 ## Education Studio
 Hands on Linux Labs, systems thinking, AI builds and cybersecurity labs for learners from beginner to advanced.
 - **linux-labs** Real world technical training labs for Linux terminal skill building
-- **agent-craft** AI micro-builds that train and teach core agent concepts
+- **agent-craft** AI micro-builds that teach core agent concepts
 
 ## Systems & Infrastructure Studio
 Reusable tools I built to build with, Docker sandboxes, script scaffolding, testing and Bash automation tools.
@@ -23,7 +23,6 @@ A running record of real bugs, what broke, why, and what it took to fix across e
 - **Postmortem-Proof** Errors, bugs and mistakes caught and explained
 
 ## Currently building
-- **AI agent** Daily AI agent micro-builds, one pattern at a time
 - **Security ops pipeline** Final stage of OHE in OrchestrationTools
 - **Homelab** Rocky Linux VMs for practice, self-hosted tools, and client test environments
 
